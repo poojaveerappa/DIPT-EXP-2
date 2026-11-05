@@ -29,11 +29,12 @@ Display the live video stream using cv2.imshow().
 Step 5:
 Resize the frame and rotate it using OpenCV functions, then display the processed frames.
 
-💻 Program
+# Program
 Developed By:
 Name: POOJA V
 Register No:212225040302
-Output
+
+# Output
 i) Write the frame as JPG image
 Captured image is saved as captured_image.jpg
 ```
