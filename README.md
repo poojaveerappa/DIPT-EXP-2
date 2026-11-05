@@ -1,16 +1,16 @@
-Image Capture and Video Processing Using OpenCV
-Aim
+# Image Capture and Video Processing Using OpenCV
+# Aim
 To write a Python program using OpenCV to capture an image from the webcam and perform the following operations:
 
 Write the frame as a JPG file
 Display the video
 Display the video by resizing the window
 Rotate and display the video
-🛠️ Software Used
+# Software Used
 Anaconda – Python 3.7
 Jupyter Notebook / VS Code
 OpenCV (cv2)
-⚙️ Algorithm
+# Algorithm
 Step 1:
 Import the required libraries and initialize the webcam using cv2.VideoCapture().
 
@@ -116,5 +116,5 @@ cap.release()
 <img width="386" height="482" alt="image" src="https://github.com/user-attachments/assets/2a40d709-ee37-4f26-9060-f8cf8947fc6f" />
 
 
-Result
+# Result
 Thus, the image is successfully captured from the webcam and various video processing operations such as saving, displaying, resizing, and rotating are performed using OpenCV.
